@@ -29,14 +29,14 @@ The planner creates a wooden axe first to speed up wood production. The solution
 ### Part 2: Automated HTN (autoHTN.py)
 
 **Successfully solves:**
-- ✓ Test (a): Given {'plank': 1}, achieve {'plank': 1} [time <= 0] - 0 actions
-- ✓ Test (b): Given {}, achieve {'plank': 1} [time <= 300] - 2 actions  
-- ✓ Test (c): Given {'plank': 3, 'stick': 2}, achieve {'wooden_pickaxe': 1} [time <= 10] - 4 actions
+- Test (a): Given {'plank': 1}, achieve {'plank': 1} [time <= 0] - 0 actions
+- Test (b): Given {}, achieve {'plank': 1} [time <= 300] - 2 actions  
+- Test (c): Given {'plank': 3, 'stick': 2}, achieve {'wooden_pickaxe': 1} [time <= 10] - 4 actions
 
 **Fails:**
-- ✗ Test (d): Given {}, achieve {'iron_pickaxe': 1} [time <= 100]
-- ✗ Test (e): Given {}, achieve {'cart': 1, 'rail': 10} [time <= 175]
-- ✗ Test (f): Given {}, achieve {'cart': 1, 'rail': 20} [time <= 250]
+- Test (d): Given {}, achieve {'iron_pickaxe': 1} [time <= 100]
+- Test (e): Given {}, achieve {'cart': 1, 'rail': 10} [time <= 175]
+- Test (f): Given {}, achieve {'cart': 1, 'rail': 20} [time <= 250]
 
 ### Implementation
 
