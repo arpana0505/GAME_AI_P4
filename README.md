@@ -1,6 +1,4 @@
-# HTN Planning for Minecraft - Implementation Report
-
-## Implementation Details
+# HTN Planning for Minecraft - Implementation
 
 ### Part 1: Manual HTN (manualHTN.py)
 
