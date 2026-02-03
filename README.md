@@ -1,5 +1,7 @@
 # HTN Planning for Minecraft - Implementation
 
+#### Arpana Koilada, Ananya Setty
+
 ### Part 1: Manual HTN (manualHTN.py)
 
 Successfully solves: **Given {}, achieve {'wood': 12} [time <= 46]**
